@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="26" viewBox="0 0 520 26" role="img" aria-labelledby="title">
+  <title id="title">Platform CH32V307 · Language C · Telemetry LoRa · 34-page design report</title>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="11" text-anchor="middle">
+    <rect width="150" height="26" rx="5" fill="#e8f3f7"/>
+    <text x="75" y="17" fill="#206276">PLATFORM · CH32V307</text>
+    <rect x="158" width="88" height="26" rx="5" fill="#edf1f9"/>
+    <text x="202" y="17" fill="#355682">CODE · C</text>
+    <rect x="254" width="122" height="26" rx="5" fill="#e9f5f0"/>
+    <text x="315" y="17" fill="#246c57">TELEMETRY · LoRa</text>
+    <rect x="384" width="136" height="26" rx="5" fill="#faf2e4"/>
+    <text x="452" y="17" fill="#82602c">REPORT · 34 PAGES</text>
+  </g>
+</svg>

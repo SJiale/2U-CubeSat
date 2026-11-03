@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">2U CubeSat — Harbin Engineering University</title>
+  <desc id="description">A dark navy project banner featuring a conceptual two-unit CubeSat illustration. Attitude, control and telemetry hardware experiments.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1C2D"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#6392B2" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="440" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="url(#space)"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <path d="M770 440C836 347 1030 243 1280 250" stroke="#366279" stroke-opacity=".28"/>
+    <path d="M811 440C888 363 1064 282 1280 294" stroke="#366279" stroke-opacity=".13"/>
+    <ellipse cx="1007" cy="224" rx="235" ry="123" transform="rotate(-27 1007 224)" stroke="#6BB5C8" stroke-opacity=".15" stroke-dasharray="4 7"/>
+    <circle cx="1009" cy="224" r="177" stroke="#568499" stroke-opacity=".10"/>
+    <g fill="#A2BDCF">
+      <circle cx="782" cy="70" r="1.6" opacity=".55"/>
+      <circle cx="1182" cy="57" r="1.5" opacity=".55"/>
+      <circle cx="1196" cy="328" r="1.4" opacity=".45"/>
+      <circle cx="767" cy="318" r="1.2" opacity=".45"/>
+      <circle cx="890" cy="370" r="1.5" opacity=".4"/>
+      <circle cx="710" cy="151" r="1" opacity=".35"/>
+      <circle cx="1145" cy="389" r="1" opacity=".3"/>
+      <circle cx="1161" cy="193" r="1" opacity=".4"/>
+    </g>
+    <path d="M1172 253H1180M1176 249V257" stroke="#6FA4B6" stroke-opacity=".45"/>
+    <path d="M849 129H857M853 125V133" stroke="#6FA4B6" stroke-opacity=".35"/>
+
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <rect x="64" y="67" width="8" height="8" rx="2" fill="#63DED7"/>
+      <text x="86" y="79" fill="#B0C9D8" font-size="16" font-weight="600" letter-spacing="2.2">HARBIN ENGINEERING UNIVERSITY</text>
+      <text x="60" y="196" fill="#F1F7FB" font-size="86" font-weight="700" letter-spacing="-3.5">2U CubeSat<tspan fill="#63DED7">.</tspan></text>
+      <text x="65" y="249" fill="#A8C0D1" font-size="25" font-weight="400" letter-spacing=".3">Attitude  /  Control  /  Telemetry</text>
+      <path d="M65 282H114" stroke="#63DED7" stroke-width="3" stroke-linecap="round"/>
+      <rect x="64" y="327" width="281" height="38" rx="7" fill="#152B38" stroke="#31505C"/>
+      <circle cx="84" cy="346" r="3.5" fill="#EDB870"/>
+      <text x="100" y="351" fill="#C9DCE4" font-size="14" font-weight="600" letter-spacing="1.5">HARDWARE EXPERIMENTS</text>
+    </g>
+
+    <!-- Concept illustration: the visual is not a mechanical drawing of the project. -->
+    <g stroke-linejoin="round" stroke-linecap="round">
+      <path d="M1006 82L1114 130L1035 188L927 139Z" fill="#2C4150" stroke="#7F9AA9" stroke-width="2"/>
+      <path d="M927 139L1035 188V368L927 319Z" fill="#162D40" stroke="#8DA4AE" stroke-width="2"/>
+      <path d="M1035 188L1114 130V310L1035 368Z" fill="#0E2032" stroke="#8DA4AE" stroke-width="2"/>
+
+      <!-- Inset solar-cell surfaces, with two distinct units. -->
+      <path d="M941 160L1022 197V266L941 230Z" fill="#163C54" stroke="#46718A"/>
+      <path d="M941 245L1022 282V345L941 309Z" fill="#163C54" stroke="#46718A"/>
+      <g stroke="#4D8CA4" stroke-width=".8" opacity=".65">
+        <path d="M968 172V242M995 184V254M941 183L1022 220M941 207L1022 244"/>
+        <path d="M968 257V321M995 270V333M941 266L1022 303M941 287L1022 324"/>
+      </g>
+      <path d="M1047 193L1102 153V220L1047 261Z" fill="#0B3044" stroke="#37657C"/>
+      <path d="M1047 277L1102 237V303L1047 343Z" fill="#0B3044" stroke="#37657C"/>
+      <g stroke="#447A92" stroke-width=".8" opacity=".6">
+        <path d="M1075 173V240M1047 216L1102 176M1047 239L1102 199"/>
+        <path d="M1075 257V323M1047 299L1102 259M1047 321L1102 281"/>
+      </g>
+
+      <!-- Structural rails and cross members. -->
+      <path d="M927 139V319L1035 368L1114 310V130" stroke="#CBAC7D" stroke-width="5"/>
+      <path d="M1006 82L927 139L1035 188L1114 130L1006 82" stroke="#DEC49B" stroke-width="5"/>
+      <path d="M1035 188V368M927 229L1035 278L1114 220" stroke="#C4A575" stroke-width="5"/>
+      <path d="M1006 91L1097 132L1034 177L944 137Z" stroke="#869CAA" stroke-width="1.3"/>
+
+      <!-- Top deck: a small sensor aperture and a restrained antenna. -->
+      <path d="M1005 107L1048 126L1018 148L975 129Z" fill="#122536" stroke="#597B8E"/>
+      <ellipse cx="1011" cy="128" rx="12" ry="7" transform="rotate(24 1011 128)" fill="#091524" stroke="#6596AB" stroke-width="2"/>
+      <ellipse cx="1011" cy="128" rx="5" ry="3" transform="rotate(24 1011 128)" fill="#63DED7" opacity=".65"/>
+      <path d="M1054 117L1072 84L1130 62" stroke="#8EABB8" stroke-width="2"/>
+      <circle cx="1054" cy="117" r="3" fill="#D7B884"/>
+      <circle cx="1130" cy="62" r="2.5" fill="#63DED7"/>
+      <path d="M978 116L966 83L922 59" stroke="#8EABB8" stroke-width="2"/>
+      <circle cx="978" cy="116" r="3" fill="#D7B884"/>
+      <circle cx="922" cy="59" r="2" fill="#BDD4DE"/>
+
+      <g fill="#F3DFBD" stroke="#7E745E" stroke-width=".6">
+        <circle cx="930" cy="145" r="2.1"/>
+        <circle cx="930" cy="230" r="2.1"/>
+        <circle cx="930" cy="315" r="2.1"/>
+        <circle cx="1035" cy="194" r="2.1"/>
+        <circle cx="1035" cy="279" r="2.1"/>
+        <circle cx="1035" cy="362" r="2.1"/>
+        <circle cx="1111" cy="138" r="2.1"/>
+        <circle cx="1111" cy="221" r="2.1"/>
+        <circle cx="1111" cy="307" r="2.1"/>
+      </g>
+    </g>
+    <text x="1007" y="410" text-anchor="middle" fill="#7893A7" font-family="'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="2">CONCEPT ILLUSTRATION</text>
+    <rect x=".5" y=".5" width="1279" height="439" rx="19.5" stroke="#335062" stroke-opacity=".55"/>
+  </g>
+</svg>

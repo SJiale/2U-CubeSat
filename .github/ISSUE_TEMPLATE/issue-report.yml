@@ -1,0 +1,27 @@
+name: 问题反馈 / Bug report
+description: 反馈文档、工程集成或实验中的具体问题。
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与预期行为
+      description: 请注明相关文件，以及预期结果与实际现象。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+      description: 提供复现步骤或出错的文档链接。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 实验环境（如适用）
+      description: 入口文件、开发板、SDK / IDE 版本、接线和采样周期。
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 日志或实验记录
+      description: 可补充编译信息、截图或数据；请移除凭据与个人信息。
